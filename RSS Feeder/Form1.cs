@@ -99,7 +99,7 @@ namespace RSS_Feeder
             }
         } 
         
-        public async Task<List<Item>> GetXmlAsync(string feed) // new comm
+        public async Task<List<Item>> GetXmlAsync(string feed) 
         {
             WebProxy wp = new WebProxy(_proxyAddress);
             wp.Credentials = new NetworkCredential(_userName, _password);
