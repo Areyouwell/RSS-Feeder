@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DateFromXml>
+	<Tape>https://lenta.ru/rss/news/</Tape>
+	<Frequency>60000</Frequency>
+	<ProxyAddress>adreeproxxy</ProxyAddress>
+	<UserName>Ton</UserName>
+	<Password>lolkik</Password>
+</DateFromXml>
